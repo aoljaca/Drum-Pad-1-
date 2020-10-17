@@ -1,0 +1,33 @@
+body {
+    background-image: linear-gradient(red, yellow);
+  }
+  button {
+    background-color: LightGrey;
+    width: 6em;
+    height: 5em;
+    margin-bottom: 10px;
+  }
+  #rows {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 70px
+  }
+  h1 {
+    text-align: center;
+  }
+  
+  #display {
+    position: relative;
+    border: solid blue 6px;
+    width: 120px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: blue;
+    border-radius: 50%;
+    margin: 0 auto;
+    align: center;
+    margin-top: 12px;
+    color: yellow
+  }
+  
+  
