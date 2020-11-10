@@ -43,5 +43,21 @@ img {
   max-width: 800px;
   height: 300px;
 }
+
+#icon {
+  display: block;
+  margin: 15px;
+  margin-top: 95px;
+  align-items: left;
+  color: black;
+}
+
+.block {
+  display: flex;
+  width: 500px;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
   
   
