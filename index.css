@@ -38,5 +38,10 @@ h3 {
   margin-top: 12px;
   color: yellow
 }
+
+img {
+  max-width: 800px;
+  height: 300px;
+}
   
   
