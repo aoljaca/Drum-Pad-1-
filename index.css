@@ -9,6 +9,7 @@ button {
 }
 #drum-machine {
   width: 500px;
+  margin: auto
 }
 #rows {
   text-align: center;
